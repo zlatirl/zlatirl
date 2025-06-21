@@ -8,7 +8,7 @@ I'm open to **software engineering opportunities** and excited to work on challe
 
 ## 🧠 What I do in my spare time
 
-I spend a lot of my free time working on **Final Fantasy XI private server development**, where I tinker with **custom Lua scripts**, dive into **C++ core features**, and explore **SQL database structure**
+I spend a lot of my free time working on **Final Fantasy XI private server development**, where I tinker with **custom Lua scripts**, dive into **C++ core features**, and explore **SQL database structures**
 (hey, I'm still learning - but we all gotta start somewhere, right? 😅).
 
 This hands-on work — plus personal projects and university coursework has helped me build experience across a range of programming languages and tools:
